@@ -1,1 +1,1 @@
-# odin_recipes
+A website which contains a recipes for basic food.
